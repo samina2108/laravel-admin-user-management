@@ -82,10 +82,10 @@ Visit: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Users List
-![Users](screenshots/users.png)
+![Users](Screenshots/Users.png)
 
 
 ---
