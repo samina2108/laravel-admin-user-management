@@ -79,7 +79,14 @@ Visit: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 
 ## 📸 Screenshots
 
-*Add screenshots here (Dashboard, User Table, Search, Export)*
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Users List
+![Users](screenshots/users.png)
+
 
 ---
 
